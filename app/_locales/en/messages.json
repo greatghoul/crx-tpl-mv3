@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Extension Name",
+    "description": "Name of the application."
+  },
+  "appDesc": {
+    "message": "Extension Description",
+    "description": "Description of the application."
+  },
+  "appTooltip": {
+  	"message": "Extension Popup Title",
+  	"description": "Title of the popup icon."
+  }
+}
