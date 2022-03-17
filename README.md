@@ -1,5 +1,7 @@
 ## Chrome Extension Template
 
+Simple template for chrome extension mv3 without modern javascript framework.
+
 ## Scripts
 
 Build the package
